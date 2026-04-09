@@ -45,7 +45,7 @@ Sigue estos pasos para probar el juego en tu máquina local:
    javac RPGMenuSimulator.java
    ```
 
-4. **Compilar el programa:**
+4. **Ejecutar el programa:**
 
    ```bash
    java RPGMenuSimulator
