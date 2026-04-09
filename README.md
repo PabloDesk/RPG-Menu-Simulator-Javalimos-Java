@@ -30,7 +30,7 @@ Sigue estos pasos para probar el juego en tu máquina local:
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone [https://github.com/TU_USUARIO/RPG-Menu-Simulator-Java.git](https://github.com/TU_USUARIO/RPG-Menu-Simulator-Java.git)
+   git clone [https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java] (https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java)
    ```
 
 2. **Navegar a la carpeta:**
@@ -52,6 +52,12 @@ Sigue estos pasos para probar el juego en tu máquina local:
    ```
 ## 📸 Capturas de Consola
 
-
+![Console_Screenshots/img1.jpg](https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java/blob/a5a490e92c925f9d067137cdfc73ca2aa09db9dd/Console_Screenshots/img1.jpg)
+![Console_Screenshots/img2.jpg](https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java/blob/a5a490e92c925f9d067137cdfc73ca2aa09db9dd/Console_Screenshots/img2.jpg)
+![Console_Screenshots/img3.jpg](https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java/blob/a5a490e92c925f9d067137cdfc73ca2aa09db9dd/Console_Screenshots/img3.jpg)
+![Console_Screenshots/img4.jpg](https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java/blob/a5a490e92c925f9d067137cdfc73ca2aa09db9dd/Console_Screenshots/img4.jpg)
+![Console_Screenshots/img5.jpg](https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java/blob/a5a490e92c925f9d067137cdfc73ca2aa09db9dd/Console_Screenshots/img5.jpg)
+![Console_Screenshots/img6.jpg](https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java/blob/a5a490e92c925f9d067137cdfc73ca2aa09db9dd/Console_Screenshots/img6.jpg)
+![Console_Screenshots/img7.jpg](https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java/blob/a5a490e92c925f9d067137cdfc73ca2aa09db9dd/Console_Screenshots/img7.jpg)
 
 
