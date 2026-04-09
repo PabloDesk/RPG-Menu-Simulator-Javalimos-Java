@@ -1,0 +1,35 @@
+# --- JAVA ESPECÍFICO ---
+# Ignora los archivos compilados (el código que entiende la máquina, no el humano)
+*.class
+
+# Archivos empaquetados (si luego decides convertir tu juego en un ejecutable)
+*.jar
+*.war
+*.ear
+
+# --- DIRECTORIOS DE SALIDA ---
+# Donde los editores guardan el código compilado
+bin/
+out/
+target/
+
+# --- CONFIGURACIONES DE IDEs (Editores) ---
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# --- ARCHIVOS TEMPORALES DEL SISTEMA ---
+.DS_Store
+Thumbs.db
+*.log
+tmp/
