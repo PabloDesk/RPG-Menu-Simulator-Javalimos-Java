@@ -30,7 +30,7 @@ Sigue estos pasos para probar el juego en tu máquina local:
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone [https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java] (https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java)
+   git clone https://github.com/PabloDesk/RPG-Menu-Simulator-Javalimos-Java
    ```
 
 2. **Navegar a la carpeta:**
